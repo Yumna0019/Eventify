@@ -6,7 +6,6 @@ Welcome to Eventify, your go-to app for event management! 🚀
 Eventify is a snazzy web application that helps you manage and organize your events like a pro. From user authentication to event creation, we've got you covered!
 
 ## 🔥 Features
-- 🔐 **User Authentication:** Secure login and registration system.
 - 📅 **Event Management:** Create, update, and delete events.
 - 📊 **Dashboard:** Get an overview of all your upcoming events.
 
