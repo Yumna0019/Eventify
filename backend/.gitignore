@@ -1,0 +1,13 @@
+# Ignore node_modules in the backend directory
+backend/node_modules/
+# Ignore .env files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore macOS system files
+.DS_Store
+
+# Ensure .gitignore contains the following line
+echo "node_modules/" >> .gitignore
