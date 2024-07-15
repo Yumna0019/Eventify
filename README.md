@@ -1,4 +1,4 @@
-# 🎉 Eventify 🎉
+#  Eventify 
 
 Welcome to Eventify, your go-to app for event management! 🚀
 
@@ -11,8 +11,8 @@ Eventify is a snazzy web application that helps you manage and organize your eve
 - 📊 **Dashboard:** Get an overview of all your upcoming events.
 
 ## 🛠️ Technologies
-- **Frontend:** JavaScript, HTML, CSS
-- **Backend:** Node.js, Express
+- **Frontend:** JavaScript, React.js, CSS, Bootstrap, HTML.
+- **Backend:** Node.js, Express.js, MySQL.
 
 ## 🚀 Installation
 1. Clone the repo:
