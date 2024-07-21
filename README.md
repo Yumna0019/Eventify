@@ -5,6 +5,9 @@ Welcome to Eventify, your go-to app for event management! 🚀
 ## 🌟 Description
 Eventify is a snazzy web application that helps you manage and organize your events like a pro. From user authentication to event creation, we've got you covered!
 
+## 🌐 Live Demo
+Check out the live demo [here](https://eventify-client.netlify.app/home).
+
 ## 🔥 Features
 - 📅 **Event Management:** Create, update, and delete events.
 - 📊 **Dashboard:** Get an overview of all your upcoming events.
