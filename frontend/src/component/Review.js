@@ -28,7 +28,7 @@ const Review = () => {
 
   useEffect(() => {
     localStorage.setItem("reviews", JSON.stringify(reviews));
-  }, [reviews]); // Save reviews to localStorage whenever they change
+  }, [reviews]); 
 
   return (
     <>

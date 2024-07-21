@@ -3,7 +3,6 @@
   scroll-margin-top: 120px;
 }
 
-/* Prevent horizontal scrolling */
 body {
   overflow-x: hidden;
 }
@@ -30,15 +29,12 @@ body {
   border-radius: 10px;
   height: 200px;
   width: 23%;
-  /* background-color: #bfebf4; */
   background-image: url("./bg-img.jpg");
   background-size: cover;
   background-position: center;
   background-color: rgba(0, 0, 0, 0.4);
-  /* Adjust the color and opacity */
   background-blend-mode: overlay;
   color: #fff;
-
   box-shadow: 2px 2px 2px #7adef2;
 }
 

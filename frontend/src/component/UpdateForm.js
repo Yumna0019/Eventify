@@ -18,8 +18,8 @@ const UpdateForm = ({ event, onClose, onUpdate }) => {
     e.preventDefault();
     try {
       await axios.put(`http://localhost:5000/api/events/${event.EventID}`, formData);
-      onUpdate(); // Callback to update the state in the parent component
-      onClose(); // Close the form after submission
+      onUpdate();
+      onClose(); 
     } catch (error) {
       console.error('Error updating event:', error);
     }

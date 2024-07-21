@@ -6,7 +6,7 @@ const Cont = ({ upcom, onDelete, onUpdateClick }) => {
   const handleDelete = async () => {
     try {
       await axios.delete(`http://localhost:5000/api/events/${upcom.EventID}`);
-      onDelete(upcom.EventID); // Remove the event from the state
+      onDelete(upcom.EventID);
     } catch (error) {
       console.error('Error deleting event:', error);
     }
@@ -26,10 +26,3 @@ const Cont = ({ upcom, onDelete, onUpdateClick }) => {
 };
 
 export default Cont;
-
-
-
-
-
-
-
